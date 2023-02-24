@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [PromptSlam] and [Acta].
-- 🌱 I’m currently thinking about how AI can help with Climate change.
-- 📫 How to reach me: https://www.linkedin.com/in/garg-ankush/
+- 🔭 I’m currently working on [PromptSlam](https://promptslam.com) and [Acta](https://acta.fyi)
+- 🌱 I’m currently thinking about how AI can help to bring Societal and Climate change
+- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/garg-ankush/) or [Email](github@ankushgarg.com)
 
