@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [prompt slam](https://promptslam.com) and [acta](https://acta.fyi)
-- 🌱 I’m currently thinking about how AI can help to bring social and climate change
+- 🔭 I’m currently working on getting my Master's in Data Science at UC Berkeley
+- 🌱 I’m currently thinking how to apply my data science skills to social justice
 - 💬 I write sometimes on my [blog](https://ankushgarg.super.site/)
-- 📫 I'm reachable on [linkedIn](https://www.linkedin.com/in/garg-ankush/) or by email at github@ankushgarg.com
+- 📫 I'm reachable on [linkedIn](https://www.linkedin.com/in/garg-ankush/) or by email at ankush-garg@berkeley.edu
 
